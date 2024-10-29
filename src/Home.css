@@ -1,0 +1,58 @@
+.status {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.status:hover {
+    transform: scale(1.05);
+}
+
+.card {
+    background-color: #333;
+    padding: 20px;
+    width: 200px;
+    border-radius: 20px;
+    color:white;
+}
+
+.tovar {
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.imgTovar{
+    border-radius: 4px;
+}
+.cena {
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+.btn {
+    
+    text-decoration: none;
+    color: white;
+    border:1px solid #222121;
+    border-radius: 10px;
+    background-color: #2b2a2a;
+    font-size: 25px;
+}
+
+.btn-keeper {
+    margin-top: 20px;
+}
+
+.btn:hover {
+    color:black;
+    background-color: white;
+}
+
+.main {
+    justify-content: center;
+    display: flex;
+}
